@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrivateBlog.Domain
+namespace PrivateBlog.Domain.Entities
 {
     public class Category
     {
