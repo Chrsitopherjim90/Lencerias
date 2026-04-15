@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/Core/" />
+  <Folder Name="/Core/">
+    <Project Path="PrivateBlog.Domain/PrivateBlog.Domain.csproj" Id="f4eb4b8f-a537-4e3f-886f-05dc50840682" />
+  </Folder>
   <Folder Name="/Infrastructure/" />
   <Folder Name="/Presenters/" />
   <Folder Name="/Tests/" />
